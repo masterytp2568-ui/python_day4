@@ -1,0 +1,12 @@
+Task Report - 2026-06-26 14:33:32
+========================================
+- ส่งรายงาน | due_date=25/06/2026 | status=overdue | เลยกำหนด 1 วัน
+- ตรวจเอกสาร | due_date=20/06/2026 | status=overdue | เลยกำหนด 6 วัน
+- เตรียมสไลด์ | due_date=01/07/2026 | status=upcoming | เหลืออีก 5 วัน
+- ข้อมูลผิด | due_date=wrong-date | status=invalid | วันที่ไม่ถูกต้อง
+
+สรุปจำนวนตามสถานะ
+- overdue: 2
+- due_today: 0
+- upcoming: 1
+- invalid: 1
